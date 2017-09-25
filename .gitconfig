@@ -1,0 +1,8 @@
+[user]
+	name = Oscar Sandoval Penilla
+	email = oscarsan.penilla@gmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
